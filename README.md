@@ -36,14 +36,6 @@ Runs the app in the development mode.
 **open http://localhost:300 to view it in your browser.**
 The page will reload when you make changes, and any lint errors will be displayed in the console.
 
-### TESTING
-
-```
-npm test
-```
-
-Launches the test runner in the interactive watch mode. This is used for running automated tests to verify the functionality of the application. The tests are written using `Mocha`, `Sinon`, `jest` and `Chai`. You can find the test files in the **src/tests directory**.
-
 ### Building for Production
 
 To build the application for production, use the following command:
