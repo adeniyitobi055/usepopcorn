@@ -1,7 +1,5 @@
 # USEPOPCORN
 
-Keep track of your travel items
-
 ## Project Description
 
 This project is focused on delivering a movie from an API and also store the movie after it has been rated and added to the watched list.
